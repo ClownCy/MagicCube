@@ -1,2 +1,3 @@
 # MagicCube
-Magic cube
+魔方
+东方闪电

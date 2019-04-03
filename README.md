@@ -1,8 +1,8 @@
 # MagicCube
-魔方游戏
-1.De APP-startpagina selecteert voornamelijk de gamemodus en is onderverdeeld in twee modi: foto en nummer.
-1.The APP homepage mainly selects the game mode and is divided into two modes: picture and number.
-1.APP首页，主要是选择游戏模式，分为图片和数字两种模式。
+魔方游戏\n
+1.De APP-startpagina selecteert voornamelijk de gamemodus en is onderverdeeld in twee modi: foto en nummer.\n
+1.The APP homepage mainly selects the game mode and is divided into two modes: picture and number.\n
+1.APP首页，主要是选择游戏模式，分为图片和数字两种模式。\n
 ![image](https://github.com/ClownCy/MagicCube/blob/master/Simulator%20Screen%20Shot%20-%20iPhone%208%20Plus%20-%202019-04-03%20at%2020.53.52.png?raw=true)
 
 2.Op de spelconfiguratiepagina kun je het aantal rijen en kolommen selecteren, hoe groter het aantal rijen * kolommen, hoe hoger de moeilijkheidsgraad, de afbeeldingsmodus kan de eigen afbeelding van de game kiezen, je kunt natuurlijk ook de APP-standaardafbeelding voor de game gebruiken.

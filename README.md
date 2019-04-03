@@ -1,5 +1,5 @@
 # MagicCube
-魔方游戏  
+Rubiks kubusspel| Rubik's cube game |魔方游戏  
 1.De APP-startpagina selecteert voornamelijk de gamemodus en is onderverdeeld in twee modi: foto en nummer.  
 1.The APP homepage mainly selects the game mode and is divided into two modes: picture and number.  
 1.APP首页，主要是选择游戏模式，分为图片和数字两种模式。  
